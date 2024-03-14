@@ -1,0 +1,34 @@
+Data Source=DESKTOP-A72DUVD\SQLEXPRESS;Initial Catalog=ayandb;Integrated Security=True
+// 1.Address of SQL server and database
+
+string connectingString = "Data Source=DESKTOP-A72DUVD\\SQLEXPRESS;Initial Catalog=ayandb;Integrated Security=True";
+
+// 2. Establish connection
+
+SqlConnection con = new SqlConnection(connectingString);
+
+// 3. open connection
+con.Open();
+
+// 4. prepare query
+
+string Query = "select * from database_two_show";
+SqlCommand cmd = new SqlCommand(Query, con);
+
+// 5. execute query
+
+var table_data = cmd.ExecuteReader();
+
+while (table_data.Read())
+{
+    dataGridView1.Rows.Add(table_data["id"], table_data["firstname"] + " " + table_data["lastname"], table_data["saddress"]);
+}
+
+
+/* Method 1
+DataTable dt = new DataTable();
+dt.Load(table_data);
+
+dataGridView1.DataSource = dt;*/
+// 6. close connection
+con.Close();

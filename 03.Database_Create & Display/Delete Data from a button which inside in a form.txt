@@ -1,0 +1,41 @@
+if (e.ColumnIndex == 4 && e.RowIndex > -1)
+{
+    textBox1.Text = dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
+    if (MessageBox.Show("Do you want to deleted the Record "," Conform Delete", MessageBoxButtons.YesNo) == DialogResult.Yes)
+    {
+        // 1.Address of SQL server and database
+
+        string connectingString = "Data Source=DESKTOP-A72DUVD\\SQLEXPRESS;Initial Catalog=ayandb;Integrated Security=True";
+
+        // 2. Establish connection
+
+        SqlConnection con = new SqlConnection(connectingString);
+
+        // 3. open connection
+        con.Open();
+
+        // 4. prepare query
+
+        int id = int.Parse(textBox1.Text);
+        string firstname = textBox2.Text;
+        string lastname = textBox3.Text;
+        string saddress = textBox4.Text;
+
+        string Query = "delete from database_two_show where id = " + id + "";
+        // 5. ececute query
+        SqlCommand cmd = new SqlCommand(Query, con);
+        cmd.ExecuteNonQuery();
+
+        // 6. close connection
+        con.Close();
+
+        MessageBox.Show("Data has been Deleted");
+        textBox1.Text = "";
+        textBox2.Text = "";
+        textBox3.Text = "";
+        textBox4.Text = "";
+
+        dataGridView1.Rows.Clear();
+        showData();
+    }
+}

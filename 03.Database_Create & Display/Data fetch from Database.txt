@@ -1,0 +1,34 @@
+// 1.Address of SQL server and database
+
+string connectingString = "Data Source=DESKTOP-A72DUVD\\SQLEXPRESS;Initial Catalog=ayandb;Integrated Security=True";
+
+// 2. Establish connection
+
+SqlConnection con = new SqlConnection(connectingString);
+
+// 3. open connection
+con.Open();
+
+// 4. prepare query
+int id = int.Parse(textBox1.Text);
+
+string Query = "select * from database_two_show where id = " + id + "";
+
+
+// 5. execute query
+
+SqlCommand cmd = new SqlCommand(Query, con);
+
+var table_data = cmd.ExecuteReader();
+
+if (table_data.Read())
+{
+    textBox2.Text = table_data["firstname"].ToString();
+    textBox3.Text = table_data["lastname"].ToString();
+    textBox4.Text = table_data["saddress"].ToString();
+}
+else { MessageBox.Show("No Record Found"); }
+
+
+// 6. close connection
+con.Close();
