@@ -1,0 +1,17 @@
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.Form1.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\refint\Notepad.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Notepad\obj\Debug\net6.0-windows\Notepad.Properties.Resources.resources
