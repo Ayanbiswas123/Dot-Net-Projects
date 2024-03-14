@@ -1,0 +1,11 @@
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\bin\Debug\Multipage.exe.config
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\bin\Debug\Multipage.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\bin\Debug\Multipage.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.csproj.AssemblyReference.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.Form1.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.Form2.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.Properties.Resources.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.csproj.GenerateResource.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\Multipage\obj\Debug\Multipage.pdb
