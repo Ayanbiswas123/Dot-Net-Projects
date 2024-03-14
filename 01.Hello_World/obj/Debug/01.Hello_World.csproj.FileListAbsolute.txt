@@ -1,0 +1,7 @@
+E:\Language\.NET_PROJECT\C#\01.Hello_World\bin\Debug\01.Hello_World.exe.config
+E:\Language\.NET_PROJECT\C#\01.Hello_World\bin\Debug\01.Hello_World.exe
+E:\Language\.NET_PROJECT\C#\01.Hello_World\bin\Debug\01.Hello_World.pdb
+E:\Language\.NET_PROJECT\C#\01.Hello_World\obj\Debug\01.Hello_World.csproj.AssemblyReference.cache
+E:\Language\.NET_PROJECT\C#\01.Hello_World\obj\Debug\01.Hello_World.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\C#\01.Hello_World\obj\Debug\01.Hello_World.exe
+E:\Language\.NET_PROJECT\C#\01.Hello_World\obj\Debug\01.Hello_World.pdb
