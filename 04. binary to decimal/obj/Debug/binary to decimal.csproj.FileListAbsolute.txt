@@ -1,0 +1,10 @@
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\obj\Debug\binary to decimal.csproj.AssemblyReference.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\obj\Debug\binary_to_decimal.Form1.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\obj\Debug\binary_to_decimal.Properties.Resources.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\obj\Debug\binary to decimal.csproj.GenerateResource.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\obj\Debug\binary to decimal.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\bin\Debug\binary to decimal.exe.config
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\bin\Debug\binary to decimal.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\bin\Debug\binary to decimal.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\obj\Debug\binary to decimal.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\binary to decimal\obj\Debug\binary to decimal.pdb
