@@ -1,0 +1,16 @@
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\bin\Debug\net6.0-windows\Prime_number.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\bin\Debug\net6.0-windows\Prime_number.deps.json
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\bin\Debug\net6.0-windows\Prime_number.runtimeconfig.json
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\bin\Debug\net6.0-windows\Prime_number.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\bin\Debug\net6.0-windows\Prime_number.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.Form1.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.csproj.GenerateResource.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.AssemblyInfoInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.AssemblyInfo.cs
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\refint\Prime_number.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\Prime_number.genruntimeconfig.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Prime_number\obj\Debug\net6.0-windows\ref\Prime_number.dll
