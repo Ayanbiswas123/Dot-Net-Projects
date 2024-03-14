@@ -1,0 +1,7 @@
+E:\Language\.NET_PROJECT\C#\02.Sum of two number\bin\Debug\02.Sum of two number.exe.config
+E:\Language\.NET_PROJECT\C#\02.Sum of two number\bin\Debug\02.Sum of two number.exe
+E:\Language\.NET_PROJECT\C#\02.Sum of two number\bin\Debug\02.Sum of two number.pdb
+E:\Language\.NET_PROJECT\C#\02.Sum of two number\obj\Debug\02.Sum of two number.csproj.AssemblyReference.cache
+E:\Language\.NET_PROJECT\C#\02.Sum of two number\obj\Debug\02.Sum of two number.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\C#\02.Sum of two number\obj\Debug\02.Sum of two number.exe
+E:\Language\.NET_PROJECT\C#\02.Sum of two number\obj\Debug\02.Sum of two number.pdb
