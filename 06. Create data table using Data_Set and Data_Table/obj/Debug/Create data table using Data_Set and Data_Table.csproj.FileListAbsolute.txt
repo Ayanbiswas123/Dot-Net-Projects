@@ -1,0 +1,7 @@
+E:\Language\.NET_PROJECT\Dot_Net & C#\Create data table using Data_Set and Data_Table\bin\Debug\Create data table using Data_Set and Data_Table.exe.config
+E:\Language\.NET_PROJECT\Dot_Net & C#\Create data table using Data_Set and Data_Table\bin\Debug\Create data table using Data_Set and Data_Table.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\Create data table using Data_Set and Data_Table\bin\Debug\Create data table using Data_Set and Data_Table.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Create data table using Data_Set and Data_Table\obj\Debug\Create data table using Data_Set and Data_Table.csproj.AssemblyReference.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Create data table using Data_Set and Data_Table\obj\Debug\Create data table using Data_Set and Data_Table.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Create data table using Data_Set and Data_Table\obj\Debug\Create data table using Data_Set and Data_Table.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\Create data table using Data_Set and Data_Table\obj\Debug\Create data table using Data_Set and Data_Table.pdb
