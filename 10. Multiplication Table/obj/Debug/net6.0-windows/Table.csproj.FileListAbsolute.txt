@@ -1,0 +1,16 @@
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\bin\Debug\net6.0-windows\Table.exe
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\bin\Debug\net6.0-windows\Table.deps.json
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\bin\Debug\net6.0-windows\Table.runtimeconfig.json
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\bin\Debug\net6.0-windows\Table.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\bin\Debug\net6.0-windows\Table.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.Form1.resources
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.csproj.GenerateResource.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.AssemblyInfoInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.AssemblyInfo.cs
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.csproj.CoreCompileInputs.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\refint\Table.dll
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.pdb
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\Table.genruntimeconfig.cache
+E:\Language\.NET_PROJECT\Dot_Net & C#\Table\obj\Debug\net6.0-windows\ref\Table.dll
